@@ -182,9 +182,5 @@ for state in states:
 us_house_df = pd.DataFrame(us_house_rows)
 us_house_df.to_csv('2022_US_House_results.csv')
 
-<<<<<<< HEAD:2022/scrape_house_from_routers.py
 us_senate_df = pd.DataFrame(us_senate_rows)
 us_senate_df.to_csv('2022_US_Senate_results.csv')
-=======
-df.to_csv('2022_US_House_results.csv')
->>>>>>> 5cdcb7e3e09bd0c56a9c2f53d53d49be37d4ffbf:2022/scrape_house_from_reuters.py
