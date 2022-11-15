@@ -1,0 +1,157 @@
+,state,candidate_name,candidate_incumbant,candidate_winner,candidate_party,candidate_votes,candidate_pct,distrcit_pct_reporting,race
+0,Alabama,Katie Britt,False,True,Republican,940048,66.6,97.0,senate
+1,Alabama,Will Boyd,False,False,Democrat,435428,30.9,97.0,senate
+2,Alabama,John Sophocleus,False,False,Libertarian,32790,2.3,97.0,senate
+3,Alabama,Write-ins,False,False,N/A,2454,0.2,97.0,senate
+4,Alaska,Kelly Tshibaka,False,False,Republican,94138,44.2,71.0,senate
+5,Alaska,Lisa Murkowski,True,False,Republican,91205,42.8,71.0,senate
+6,Alaska,Patricia Chesbro,False,False,Democrat,20265,9.5,71.0,senate
+7,Alaska,Buzz Kelley,False,False,Republican,6244,2.9,71.0,senate
+8,Alaska,Write-ins,False,False,N/A,1056,0.5,71.0,senate
+9,Arizona,Mark Kelly,True,True,Democrat,1300471,51.4,98.0,senate
+10,Arizona,Blake Masters,False,False,Republican,1174755,46.5,98.0,senate
+11,Arizona,Marc Victor,False,False,Libertarian,52718,2.1,98.0,senate
+12,Arizona,Write-ins,False,False,N/A,0,0.0,98.0,senate
+13,Arkansas,John Boozman,True,True,Republican,589043,65.8,94.0,senate
+14,Arkansas,Natalie James,False,False,Democrat,276949,30.9,94.0,senate
+15,Arkansas,Kenneth Cates,False,False,Libertarian,28557,3.2,94.0,senate
+16,Arkansas,Write-ins,False,False,N/A,308,0.1,94.0,senate
+17,California,Alex Padilla,True,True,Democrat,4704582,60.5,68.0,senate
+18,California,Mark Meuser,False,False,Republican,3075467,39.5,68.0,senate
+19,Colorado,Michael Bennet,True,True,Democrat,1362394,55.6,99.0,senate
+20,Colorado,Joe O'Dea,False,False,Republican,1016032,41.5,99.0,senate
+21,Colorado,Brian Peotter,False,False,Libertarian,42426,1.7,99.0,senate
+22,Colorado,T.J. Cole,False,False,Unity,15922,0.7,99.0,senate
+23,Colorado,Frank Atwood,False,False,Approval Voting,11553,0.5,99.0,senate
+24,Colorado,Write-ins,False,False,N/A,6,0.1,99.0,senate
+25,Connecticut,Richard Blumenthal,True,True,Democrat,727258,57.6,99.0,senate
+26,Connecticut,Leora Levy,False,False,Republican,534475,42.4,99.0,senate
+27,Connecticut,Write-ins,False,False,N/A,8,0.1,99.0,senate
+28,Florida,Marco Rubio,True,True,Republican,4474330,57.7,99.0,senate
+29,Florida,Val Demings,False,False,Democrat,3200389,41.3,99.0,senate
+30,Florida,Dennis Misigoy,False,False,Libertarian,32165,0.4,99.0,senate
+31,Florida,Steven Grant,False,False,No Party Affiliation,31809,0.4,99.0,senate
+32,Florida,Tuan Nguyen,False,False,No Party Affiliation,17377,0.2,99.0,senate
+33,Florida,Write-ins,False,False,N/A,1239,0.1,99.0,senate
+34,Georgia,Raphael Warnock,True,False,Democrat,1943011,49.4,99.0,senate
+35,Georgia,Herschel Walker,False,False,Republican,1906956,48.5,99.0,senate
+36,Georgia,Chase Oliver,False,False,Libertarian,81245,2.1,99.0,senate
+37,Georgia,Write-ins,False,False,N/A,1568,0.1,99.0,senate
+38,Hawaii,Brian Schatz,True,True,Democrat,289585,71.2,99.0,senate
+39,Hawaii,Bob McDermott,False,False,Republican,105704,26.0,99.0,senate
+40,Hawaii,Feena Bonoan,False,False,Libertarian,4870,1.2,99.0,senate
+41,Hawaii,Emma Pohlman,False,False,Green,4102,1.0,99.0,senate
+42,Hawaii,Dan Decker,False,False,Aloha Aina,2189,0.5,99.0,senate
+43,Idaho,Mike Crapo,True,True,Republican,358535,60.7,99.0,senate
+44,Idaho,David Roth,False,False,Democrat,169807,28.7,99.0,senate
+45,Idaho,Scott Cleveland,False,False,Independent,49924,8.4,99.0,senate
+46,Idaho,Ray Writz,False,False,Constitution,8485,1.4,99.0,senate
+47,Idaho,Idaho Sierra Law,False,False,Libertarian,4126,0.7,99.0,senate
+48,Idaho,Write-ins,False,False,N/A,0,0.0,99.0,senate
+49,Illinois,Tammy Duckworth,True,True,Democrat,2199156,55.8,91.0,senate
+50,Illinois,Kathy Salvi,False,False,Republican,1674914,42.5,91.0,senate
+51,Illinois,Bill Redpath,False,False,Libertarian,65937,1.7,91.0,senate
+52,Illinois,Write-ins,False,False,N/A,709,0.1,91.0,senate
+53,Indiana,Todd Young,True,True,Republican,1085144,58.6,97.0,senate
+54,Indiana,Thomas McDermott,False,False,Democrat,702115,37.9,97.0,senate
+55,Indiana,James Sceniak,False,False,Libertarian,63617,3.4,97.0,senate
+56,Indiana,Write-ins,False,False,N/A,641,0.1,97.0,senate
+57,Iowa,Chuck Grassley,True,True,Republican,681188,56.0,99.0,senate
+58,Iowa,Michael Franken,False,False,Democrat,533159,43.8,99.0,senate
+59,Iowa,Write-ins,False,False,N/A,1803,0.1,99.0,senate
+60,Kansas,Jerry Moran,True,True,Republican,594808,60.1,99.0,senate
+61,Kansas,Mark Holland,False,False,Democrat,365271,36.9,99.0,senate
+62,Kansas,David Graham,False,False,Libertarian,29134,2.9,99.0,senate
+63,Kansas,Write-ins,False,False,N/A,68,0.1,99.0,senate
+64,Kentucky,Rand Paul,True,True,Republican,911587,61.8,99.0,senate
+65,Kentucky,Charles Booker,False,False,Democrat,563676,38.2,99.0,senate
+66,Kentucky,Write-ins,False,False,N/A,774,0.1,99.0,senate
+67,Louisiana,John Kennedy,True,True,Republican,851137,61.6,99.0,senate
+68,Louisiana,Gary Chambers,False,False,Democrat,246775,17.9,99.0,senate
+69,Louisiana,Luke Mixon,False,False,Democrat,182722,13.2,99.0,senate
+70,Louisiana,Syrita Steib,False,False,Democrat,31520,2.3,99.0,senate
+71,Louisiana,Devin Graham,False,False,Republican,25269,1.8,99.0,senate
+72,Louisiana,Vinny Mendoza,False,False,Democrat,11889,0.9,99.0,senate
+73,Louisiana,Beryl Billiot,False,False,No Party Affiliation,9374,0.7,99.0,senate
+74,Louisiana,Salvador Rodriguez,False,False,Democrat,7753,0.6,99.0,senate
+75,Louisiana,Bradley McMorris,False,False,Independent,5383,0.4,99.0,senate
+76,Louisiana,Aaron Sigler,False,False,Libertarian,4861,0.4,99.0,senate
+77,Louisiana,Xan John,False,False,Other,2752,0.2,99.0,senate
+78,Louisiana,Thomas Olson,False,False,No Party Affiliation,1675,0.1,99.0,senate
+79,Louisiana,Thomas Wenn,False,False,Other,1321,0.1,99.0,senate
+80,Maryland,Chris Van Hollen,True,True,Democrat,1108112,63.6,92.0,senate
+81,Maryland,Chris Chaffee,False,False,Republican,634611,36.4,92.0,senate
+82,Maryland,Write-ins,False,False,N/A,861,0.1,92.0,senate
+83,Missouri,Eric Schmitt,False,True,Republican,1143789,55.4,99.0,senate
+84,Missouri,Trudy Busch Valentine,False,False,Democrat,868793,42.1,99.0,senate
+85,Missouri,Jonathan Dine,False,False,Libertarian,34710,1.7,99.0,senate
+86,Missouri,Paul Venable,False,False,Constitution,14569,0.7,99.0,senate
+87,Missouri,Write-ins,False,False,N/A,1151,0.1,99.0,senate
+88,Nevada,Catherine Cortez Masto,True,True,Democrat,491132,48.8,98.0,senate
+89,Nevada,Adam Laxalt,False,False,Republican,482917,48.0,98.0,senate
+90,Nevada,None of these candidates,False,False,None Of The Above,12130,1.2,98.0,senate
+91,Nevada,Barry Lindemann,False,False,No Party Designation,7890,0.8,98.0,senate
+92,Nevada,Neil Scott,False,False,Libertarian,6278,0.6,98.0,senate
+93,Nevada,Barry Rubinson,False,False,Independent American,5100,0.5,98.0,senate
+94,New Hampshire,Maggie Hassan,True,True,Democrat,332145,53.5,99.0,senate
+95,New Hampshire,Donald Bolduc,False,False,Republican,275901,44.4,99.0,senate
+96,New Hampshire,Jeremy Kauffman,False,False,Libertarian,12389,2.0,99.0,senate
+97,New Hampshire,Write-ins,False,False,N/A,464,0.1,99.0,senate
+98,New York,Charles Schumer,True,True,Democrat,3204886,56.4,90.0,senate
+99,New York,Joe Pinion,False,False,Republican,2445695,43.1,90.0,senate
+100,New York,Diane Sare,False,False,Independent,25653,0.5,90.0,senate
+101,New York,Write-ins,False,False,N/A,4238,0.1,90.0,senate
+102,North Carolina,Ted Budd,False,True,Republican,1893299,50.6,99.0,senate
+103,North Carolina,Cheri Beasley,False,False,Democrat,1761470,47.1,99.0,senate
+104,North Carolina,Shannon Bray,False,False,Libertarian,52358,1.4,99.0,senate
+105,North Carolina,Matthew Hoh,False,False,Green,29400,0.8,99.0,senate
+106,North Carolina,Write-ins,False,False,N/A,2475,0.1,99.0,senate
+107,North Dakota,John Hoeven,True,True,Republican,135088,56.4,99.0,senate
+108,North Dakota,Katrina Christiansen,False,False,Democrat,59808,25.0,99.0,senate
+109,North Dakota,Rick Becker,False,False,Independent,44313,18.5,99.0,senate
+110,North Dakota,Write-ins,False,False,N/A,289,0.1,99.0,senate
+111,Ohio,JD Vance,False,True,Republican,2147898,53.2,95.0,senate
+112,Ohio,Tim Ryan,False,False,Democrat,1883583,46.7,95.0,senate
+113,Ohio,Write-ins,False,False,N/A,3921,0.1,95.0,senate
+114,Oklahoma,James Lankford,True,True,Republican,739960,64.3,99.0,senate
+115,Oklahoma,Madison Horn,False,False,Democrat,369370,32.1,99.0,senate
+116,Oklahoma,Michael Delaney,False,False,Independent,20907,1.8,99.0,senate
+117,Oklahoma,Kenneth Blevins,False,False,Libertarian,20495,1.8,99.0,senate
+118,Oregon,Ron Wyden,True,True,Democrat,1017155,56.1,95.0,senate
+119,Oregon,Jo Rae Perkins,False,False,Republican,741367,40.9,95.0,senate
+120,Oregon,Chris Henry,False,False,Progressive,33526,1.8,95.0,senate
+121,Oregon,Dan Pulju,False,False,Pacific Green,21096,1.2,95.0,senate
+122,Oregon,Write-ins,False,False,N/A,109,0.1,95.0,senate
+123,Pennsylvania,"John Fetterman
+FLIP",False,True,Democrat,2711468,51.0,98.0,senate
+124,Pennsylvania,Mehmet Oz,False,False,Republican,2474141,46.5,98.0,senate
+125,Pennsylvania,Erik Gerhardt,False,False,Libertarian,72364,1.4,98.0,senate
+126,Pennsylvania,Richard Weiss,False,False,Green,30086,0.6,98.0,senate
+127,Pennsylvania,Daniel Wassmer,False,False,KEY,26227,0.5,98.0,senate
+128,Pennsylvania,Write-ins,False,False,N/A,2315,0.1,98.0,senate
+129,South Carolina,Tim Scott,True,True,Republican,1066184,62.9,99.0,senate
+130,South Carolina,Krystle Matthews,False,False,Democrat,627478,37.0,99.0,senate
+131,South Carolina,Write-ins,False,False,N/A,1805,0.1,99.0,senate
+132,South Dakota,John Thune,True,True,Republican,242315,69.6,99.0,senate
+133,South Dakota,Brian Bengs,False,False,Democrat,91011,26.2,99.0,senate
+134,South Dakota,Tamara Lesnar,False,False,Libertarian,14697,4.2,99.0,senate
+135,Utah,Mike Lee,True,True,Republican,540981,54.0,89.0,senate
+136,Utah,Evan McMullin,False,False,Unaffiliated,422620,42.1,89.0,senate
+137,Utah,Jimmy Hansen,False,False,Libertarian,27883,2.8,89.0,senate
+138,Utah,Tommy Williams,False,False,Independent American,11227,1.1,89.0,senate
+139,Utah,Write-ins,False,False,N/A,27,0.1,89.0,senate
+140,Vermont,Peter Welch,False,True,Democrat,195410,68.4,99.0,senate
+141,Vermont,Gerald Malloy,False,False,Republican,80237,28.1,99.0,senate
+142,Vermont,Dawn Ellis,False,False,Independent,2741,1.0,99.0,senate
+143,Vermont,Natasha Diamondstone-Kohout,False,False,GMP,1568,0.5,99.0,senate
+144,Vermont,Kerry Raheb,False,False,Independent,1559,0.5,99.0,senate
+145,Vermont,Mark Coester,False,False,Independent,1270,0.4,99.0,senate
+146,Vermont,Stephen Duke,False,False,Independent,1207,0.4,99.0,senate
+147,Vermont,Cris Ericson,False,False,Independent,1101,0.4,99.0,senate
+148,Vermont,Write-ins,False,False,N/A,730,0.3,99.0,senate
+149,Washington,Patty Murray,True,True,Democrat,1591893,57.1,93.0,senate
+150,Washington,Tiffany Smiley,False,False,Republican,1190279,42.7,93.0,senate
+151,Washington,Write-ins,False,False,N/A,6072,0.2,93.0,senate
+152,Wisconsin,Ron Johnson,True,True,Republican,1336877,50.4,99.0,senate
+153,Wisconsin,Mandela Barnes,False,False,Democrat,1310556,49.4,99.0,senate
+154,Wisconsin,Write-ins,False,False,N/A,4689,0.2,99.0,senate

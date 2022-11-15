@@ -5,6 +5,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
 import pandas as pd
 import time
 
@@ -101,11 +102,46 @@ states = [
 url = 'https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/{0}/'
 
 
-rows = []
+us_house_rows = []
+us_senate_rows = []
 for state in states:
    print('processing state: ',state)
    driver.get(url.format(state.lower().replace(' ','-')))
    time.sleep(3)
+
+   # US Senate Results
+   try:
+      els = driver.find_element(By.CLASS_NAME,'senate')
+      # get results tables for each district
+      tables = els.find_elements(By.CLASS_NAME,'state-table-results')
+      if len(tables) == 1:
+         table = tables[0]
+         candidates_el = table.find_elements(By.CLASS_NAME,'candidate')
+
+         pct_votes_counted = get_percent_votes_counted(table)
+
+         for candidate_el in candidates_el:
+            name,incum,win,party,votes,pct = get_candidate_info(candidate_el)
+
+
+            row_entry = {
+               'state': state,
+               'candidate_name': name,
+               'candidate_incumbant': incum,
+               'candidate_winner': win,
+               'candidate_party': party,
+               'candidate_votes': votes,
+               'candidate_pct': pct,
+               'distrcit_pct_reporting': pct_votes_counted,
+               'race':'senate',
+            }
+            print(row_entry)
+            us_senate_rows.append(row_entry)
+   except NoSuchElementException:
+      print(state,' has no senate results')
+
+
+   # US House Results
 
    # move into House results
    els = driver.find_element(By.CLASS_NAME,'house')
@@ -137,11 +173,14 @@ for state in states:
             'candidate_votes': votes,
             'candidate_pct': pct,
             'distrcit_pct_reporting': pct_votes_counted,
+            'race':'house',
          }
          print(row_entry)
-         rows.append(row_entry)
+         us_house_rows.append(row_entry)
 
 
-df = pd.DataFrame(rows)
+us_house_df = pd.DataFrame(us_house_rows)
+us_house_df.to_csv('2022_US_House_results.csv')
 
-df.to_csv('2022_US_House_results.csv')
+us_senate_df = pd.DataFrame(us_senate_rows)
+us_senate_df.to_csv('2022_US_Senate_results.csv')
